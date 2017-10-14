@@ -1,2 +1,2 @@
 # psychic-lamp
-A lamp for all your psychic needs :)
+A lamp for all your psychic needs
